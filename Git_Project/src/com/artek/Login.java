@@ -25,6 +25,7 @@ public class Login extends HttpServlet {
 		printWriter.print(request.getParameter("unm"));
 		System.out.println("request...");
 		System.out.println("another request...");
+		printWriter.println("GIT");
 	}
 
 	
