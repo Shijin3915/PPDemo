@@ -23,6 +23,7 @@ public class Login extends HttpServlet {
 		// TODO Auto-generated method stub
 		PrintWriter printWriter=response.getWriter();
 		printWriter.print(request.getParameter("unm"));
+		System.out.println("request...");
 	}
 
 	
