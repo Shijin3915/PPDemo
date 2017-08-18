@@ -45,6 +45,7 @@ public class Login extends HttpServlet {
 		printWriter.print("code3");
 		printWriter.print("TO see merge option");
 		System.out.println("checking conflicts");
+		printWriter.println("to see HEAD MASTER");
 		
 				
 	}
