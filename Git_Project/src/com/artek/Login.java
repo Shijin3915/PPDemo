@@ -36,7 +36,8 @@ public class Login extends HttpServlet {
 		System.out.println("yet another request");
 		printWriter.print(request.getParameter("upass")+"</br>"+"/n");
 		System.out.println("JJJJJJ");
-		
+		printWriter.println("Stashcode");
+		printWriter.print("stashcode1");
 	}
 
 	
