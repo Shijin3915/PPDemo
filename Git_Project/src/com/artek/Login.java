@@ -43,6 +43,7 @@ public class Login extends HttpServlet {
 		printWriter.println("code1");
 		printWriter.print("code2");
 		printWriter.print("code3");
+		printWriter.print("TO see merge option");
 		
 				
 	}
