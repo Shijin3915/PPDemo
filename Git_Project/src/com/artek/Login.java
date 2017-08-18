@@ -39,6 +39,7 @@ public class Login extends HttpServlet {
 		printWriter.println("Stashcode");
 		printWriter.print("stashcode1");
 		System.out.println("ssssss");
+		printWriter.print("Conflict for shijin");
 				
 	}
 
