@@ -42,6 +42,7 @@ public class Login extends HttpServlet {
 		printWriter.print("Conflict for shijin");
 		printWriter.println("code1");
 		printWriter.print("code2");
+		printWriter.print("code3");
 		
 				
 	}
