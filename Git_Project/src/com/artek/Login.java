@@ -26,6 +26,7 @@ public class Login extends HttpServlet {
 		System.out.println("request...");
 		printWriter.println("GIT");
 		System.out.println("another request...");
+		System.out.println("yet another request");
 	}
 
 	
