@@ -29,7 +29,7 @@ public class Login extends HttpServlet {
 		System.out.println("one more request");
 		System.out.println("second request.....");
 		System.out.println("yet another request");
-		printWriter.print(request.getParameter("upass")+"</br>");
+		printWriter.print(request.getParameter("upass")+"</br>"+"/n");
 		
 	}
 
