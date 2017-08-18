@@ -24,7 +24,7 @@ public class Login extends HttpServlet {
 		PrintWriter printWriter=response.getWriter();
 		printWriter.print(request.getParameter("unm"));
 		System.out.println("request processing initiated.....");
-		System.out.println("loading.......");
+		System.out.println("loading.........");
 		printWriter.println("GIt");
 		System.out.println("another request...");
 		System.out.println("one more request");
